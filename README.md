@@ -35,12 +35,15 @@ Peter Chen 12/13/2019
 
 The following is project we will use in the final class: 
 
-git clone https://github.com/udacity/CarND-LeNet-Lab or download from github website.
+git clone https://github.com/udacity/CarND-LeNet-Lab 
+
+or download from github website.
 
 
 The following is the project for Project2.
 
 Traffic Sign Classifier Project
+
 git clone https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
 
 
