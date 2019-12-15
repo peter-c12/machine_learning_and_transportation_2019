@@ -28,6 +28,7 @@ The following link includes several project examples you can pick to do your Pro
 Project Options:
 https://github.com/udacity/machine-learning/tree/master/projects
 
+---
 
 
 Peter Chen 12/13/2019
