@@ -63,7 +63,7 @@ The package of Traffic Sign Classifier Project at Udacity Github only includes t
 
 For writeup, from the presentation of Project 1, many students used something from website and discuss the content step by step, which is fine, but what I would like to see is your thoughts on 1-2 pages. If any weird thing happens, find the reasons. You don't need to explain everything but focus on your questions and solutions, and finally, your takeaway (心得/结论) from the project. 
 
-Either Chinese or English is OK for writeup, though English is preferred. If your writeup is written in English, you let your work open to the market of the whole world.
+Either Chinese or English is OK for writeup, though English is preferred. If your writeup is written in English, you let your work open to the market of the whole world. That's awesome!
 
 For the students who registered the class, you have to finish Project 1 and Project 2, upload the files to your Github account and send your Github link to Professor Zhu by the due day, February 7, 2020. 
 
