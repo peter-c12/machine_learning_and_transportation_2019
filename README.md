@@ -65,7 +65,7 @@ For writeup, from the presentation of Project 1, many students used something fr
 
 Either Chinese or English is OK for writeup, though English is preferred. If your writeup is written in English, you let your work open to the market of the whole world.
 
-For the students who registered the class, you have to finish Project 1 and Project 2, upload the files to your Github account and send your github link to Professor Zhu by the due day, February 7, 2020. 
+For the students who registered the class, you have to finish Project 1 and Project 2, upload the files to your Github account and send your Github link to Professor Zhu by the due day, February 7, 2020. 
 
 Thank you and hope you enjoy the Machine Learning! 
 
@@ -74,7 +74,7 @@ Thank you and hope you enjoy the Machine Learning!
 ---
 
 Note: 
-1. If you go to https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project , you can see there are over 1,800 forks. Some forks are just the same as the Udacity version without any ToDo scripts completed; however, some users have their own scripts completed and writeup. Those are huge resources you can reference.
+1. If you go to https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project , you can see there are over 1,800 forks. Some forks are just the same as the Udacity version without any ToDo scripts completed; however, some users have their own scripts completed and writeups. Those are huge resources you can reference.
 
 2. I see some students forked "machine learning and transportation" repository from my Github account. Please note that when you fork any repository, you copy the version at that time and this repository becomes yours in your account. Once the original author changes anything, such as the READme.md update I am working on, the repository in your account is still the version you forked. You may receive an email notice if you set receiving notice when the repository you forked has any update and you may do the update.
 
