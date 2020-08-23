@@ -1,5 +1,5 @@
 
-# **Machine Learning and Transportation, Shanghai University Engineering Science** 
+# **Machine Learning and Transportation** 
 
 
 12/5/2019
